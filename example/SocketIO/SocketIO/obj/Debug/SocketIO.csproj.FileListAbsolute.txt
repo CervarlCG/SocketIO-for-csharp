@@ -1,0 +1,7 @@
+C:\Users\devcg\source\repos\SocketIO\SocketIO\bin\Debug\SocketIO.exe.config
+C:\Users\devcg\source\repos\SocketIO\SocketIO\bin\Debug\SocketIO.exe
+C:\Users\devcg\source\repos\SocketIO\SocketIO\bin\Debug\SocketIO.pdb
+C:\Users\devcg\source\repos\SocketIO\SocketIO\obj\Debug\SocketIO.csprojAssemblyReference.cache
+C:\Users\devcg\source\repos\SocketIO\SocketIO\obj\Debug\SocketIO.csproj.CoreCompileInputs.cache
+C:\Users\devcg\source\repos\SocketIO\SocketIO\obj\Debug\SocketIO.exe
+C:\Users\devcg\source\repos\SocketIO\SocketIO\obj\Debug\SocketIO.pdb

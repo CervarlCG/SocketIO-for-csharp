@@ -1,0 +1,14 @@
+C:\Users\devcg\source\repos\SocketIO_Client\SocketIO_Client\bin\Debug\SocketIO_Client.exe.config
+C:\Users\devcg\source\repos\SocketIO_Client\SocketIO_Client\bin\Debug\SocketIO_Client.exe
+C:\Users\devcg\source\repos\SocketIO_Client\SocketIO_Client\bin\Debug\SocketIO_Client.pdb
+C:\Users\devcg\source\repos\SocketIO_Client\SocketIO_Client\obj\Debug\SocketIO_Client.csprojAssemblyReference.cache
+C:\Users\devcg\source\repos\SocketIO_Client\SocketIO_Client\obj\Debug\SocketIO_Client.csproj.CoreCompileInputs.cache
+C:\Users\devcg\source\repos\SocketIO_Client\SocketIO_Client\obj\Debug\SocketIO_Client.exe
+C:\Users\devcg\source\repos\SocketIO_Client\SocketIO_Client\obj\Debug\SocketIO_Client.pdb
+C:\Users\devcg\Documents\projects\c#\SocketIO\example\SocketIO_Client\SocketIO_Client\bin\Debug\SocketIO_Client.exe.config
+C:\Users\devcg\Documents\projects\c#\SocketIO\example\SocketIO_Client\SocketIO_Client\bin\Debug\SocketIO_Client.exe
+C:\Users\devcg\Documents\projects\c#\SocketIO\example\SocketIO_Client\SocketIO_Client\bin\Debug\SocketIO_Client.pdb
+C:\Users\devcg\Documents\projects\c#\SocketIO\example\SocketIO_Client\SocketIO_Client\obj\Debug\SocketIO_Client.csprojAssemblyReference.cache
+C:\Users\devcg\Documents\projects\c#\SocketIO\example\SocketIO_Client\SocketIO_Client\obj\Debug\SocketIO_Client.csproj.CoreCompileInputs.cache
+C:\Users\devcg\Documents\projects\c#\SocketIO\example\SocketIO_Client\SocketIO_Client\obj\Debug\SocketIO_Client.exe
+C:\Users\devcg\Documents\projects\c#\SocketIO\example\SocketIO_Client\SocketIO_Client\obj\Debug\SocketIO_Client.pdb
